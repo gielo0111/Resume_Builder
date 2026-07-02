@@ -1,0 +1,172 @@
+Gielo Joseph Fernandez
+16 Sharyn Place, Brookfield, Tauranga
+New Zealand Mobile #:(+64) 22 153 5568 Philippine Mobile #: (+63) 977 763 1012   
+Email: gielo0111@gmail.com
+Linked in: https://linkedin.com/in/gielojoseph GitHub: https://github.com/gielo0111
+
+
+Personal Profile
+
+Highly motivated Full Stack Software Engineer and Software tester with 6 years of working experience in the Philippines. Skilled in various frameworks and known for writing clean and efficient code. Eager to leverage my technical skills, creativity, and passion for problem-solving to provide top-notch solutions that align with client needs and drive company growth. I want to grow further in my developer career, but I am open to exploring other areas where my skills would be needed.
+
+Key Skills
+
+    • JavaScript (TypeScript, NodeJS, React, ReactNative, NestJS, ExpressJS, AngularJS, REST API)
+    • Well versed in Java and C/C++ language.
+    • API documentation tools(Swagger, Postman)
+    • HTML/HTML5/CSS 
+    • Working Knowledge and experience in Databases (SQL, NoSQL, CosmosDB)
+    • Background with Handling Confidential data.
+    • Knowledgeable in Python and C#. 
+    • Knowledgeable in PowerBI.
+    • GraphQL
+    • Adobe Experience Manager
+    • Microsoft Azure
+    • Git, CI/CD
+    • GitHub copilot
+    • Docker
+    • Deploying using Jenkins Automated CI/CD pipeline or similar Dev Ops Tools.
+    • Knowledge in using Performance tests (Jmeter, NewRelic).
+    • Knowledge in using Automation test tools (WebDriverIO)
+    • Writing microservices written in TypeScript.
+    • Running Docker containers in Kubernetes
+    • Writing SPA in React with TypeScript.
+    • Strong analytical and critical thinking skills with the ability to assess complex information and draw meaningful conclusions.
+    • Software knowledge includes MS Office (Word, Excel, PowerPoint)
+    • Able to work alone or with a team, enjoys coaching and enjoys being coached.
+    • Passion for coding, continuous-learning, and self-management.
+    • Experience in test-driven development and using test-automation tools.
+    • Good English communication and teamwork skills.
+    • Strong problem-solving skills, analytical skills and ability to learn new technologies quickly.
+    • Strong knowledge of Agile principles and practices. 
+
+
+
+
+
+Projects
+
+CoverMe (Company Project)
+https://www.coverme.com/travel-insurance/get-a-quote
+TobyGieloPeds (College Project)
+https://tobygielopeds.wordpress.com/
+
+Employment Summary
+
+Manulife/John Hancock, Makati, Philippines	August 2021 – September 2024
+Associate Full Stack Software Engineer		
+
+Tasks and Responsibilities:
+    • Designing, coding, unit testing and integrating new features and functionality as defined by stakeholders and team.
+    • Builds, reviews, codes, tests, maintains high quality software.
+    • Assumes role of scrum master when assigned: facilitates sprint cadences such as sprint planning, review, retrospective, daily stand-up, and story grooming sessions.
+    • Responsible for designing, developing, testing, maintaining, and improving application APIs and UIs as a member of the team, works across key data, orchestration, rules and transactional stacks through the entire application and system development life cycle.
+    • Working with stakeholders and team members in identifying and analyzing improvements in work practices and making sure to identify inefficiencies and recommend action plans.
+    • Using Agile methodologies, principles and techniques to develop project plans and to cost, resource, and manage projects.
+    • Taking responsibility for deploying functional and non-functional requirements, which ensures quality and integrity of the system.
+    • Working with stakeholders in refining functional specifications for use by stakeholders and team.
+    • Acts as reference and information source to the stakeholders and team, providing guidance and assistance in decision making.
+    • Documents and executes software components of larger architecture.
+    • Responsible for building and generating daily accounting reports, and responsible for fixing inconsistencies (force balance, tolerance). 
+    • Debug and fix errors on frontend/backend of application.
+    • Participate in Agile sprints and ceremonies; supports rapid iteration and development.
+    • Translates user requirements into software requirements.
+    • Executes scripts based on specification and standards.
+Key achievement: Go Live https://www.coverme.com/travel-insurance/get-a-quote - October 2, 2023
+
+Denso Ten Solutions, Pasig City, Philippines	August 2018 – July 2021
+Software Engineer/Tester		
+
+Tasks and Responsibilities:
+    • Create manual test cases and input/output values based from the specifications provided.
+    • Use MATLAB to generate initial test cases and input/output values.
+    • Create and build the environment that will be used for testing.
+    • Debug and fix errors found on Eclipse environment.
+    • Responsible for completing the deliverables that will be submitted to customer before deadline.
+    • Responsible for corresponding issues detected during review.
+    • Participate in meeting activities: report of daily and weekly progress.
+    • Participate in continuous improvement activities: knowledge sharing within squad
+    • Responsible for documenting encountered errors and issues for future instances.
+    • Be able to communicate with customers and fill-up documents using Japanese language.
+
+
+Trend Micro, Inc., Pasig City, Philippines	July 2017 – January 2018
+Core Tech Engineer Trainee
+
+Tasks and responsibilities:
+    • Training in Assembly Programming.
+    • Training in Reverse Engineering.
+    • Training in Analysis of Malware Behavior and Malware Pattern Creation.
+    • Training in Web Reputation and Email Spam.
+    • Tools used: VMWare, Ollydbg, Hiew, installrite, VSAPI, DCT, Systracer
+
+
+Rogomi, Inc, Pasig City, Philippines	May 2015 – July 2015
+Intern
+
+Tasks and responsibilities:
+    • Create documentation on Mobile App provided.
+    • Do initial tests as a Quality Assurance Tester
+    • Training in mobile development (Java / Android Studio)
+
+Certifications
+
+Microsoft Certified: Azure Fundamentals						August 2023
+Microsoft Learn
+Japanese Language Proficiency Test (JLPT) N4						July 2023
+The Japan Foundation
+
+Korean 2										July 2023
+UP Diliman Department of Linguistics
+AutoCAD Training										December 2018
+The Japan Foundation
+English Conversation Fluency 3								December 2014
+SPEECHPOWER Cubao
+
+Education and Qualifications
+
+Diploma in Bachelor of Science in Computer Science					July 2017
+University of Santo Tomas, Philippines
+
+Referees
+
+Jahziel Cariño
+Software Engineer
+Thales Technologies
+Philippines
+Ph: (+63)916 682 2058
+Email: jahzielcarino@gmail.com
+	Jayvee Asuncion
+Software Engineer
+Denso Ten Solutions
+Philippines
+Ph: (+63)915 260 9128
+Email: jayveegasuncion@gmail.com
+
+Michelle Morales
+Threat Researcher
+Trend Micro, Inc.
+Philippines
+Ph: (+63)977 823 7082 
+Email: morales.michellea@gmail.com
+	Daniel James Manalili
+IS Engineer
+Trend Micro, Inc.
+Philippines
+Ph: (+63)977 816 0074
+Email: manalilidaniel9@gmail.com
+
+	
+Joemer Dizon
+FullStack Software Engineer
+Manulife IT Delivery Center Inc.
+Philippines
+Ph: (+63)916 653 1554 
+Email: joemer.dizon@gmail.com
+	Tanja Del Mundo
+Manager
+Manulife IT Delivery Center Inc.
+Philippines
+Ph: (+63)917 593 1448
+Email: tmcdecena@gmail.com
+

@@ -1,0 +1,235 @@
+%-------------------------
+% Resume in Latex
+% Author : Gielo
+% Website: https://github.com/sb2nov/resume
+% License : MIT
+% https://www.overleaf.com/project/6a2ced5d5daa1c3d4120a6d3
+%------------------------
+
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[
+    pdftex,
+    colorlinks=true,
+    urlcolor=RoyalBlue,
+    linkcolor=RoyalBlue,
+    citecolor=RoyalBlue
+]{hyperref}
+\usepackage{fancyhdr}
+
+
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.375in}
+\addtolength{\evensidemargin}{-0.375in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.5in}
+\addtolength{\textheight}{1.0in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titrule \vspace{-5pt}]
+
+\newcommand{\titrule}{\rule[0.5ex]{\linewidth}{1pt}} % horizontal rule for section titles
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[2]{
+  \item\small{
+    \textbf{#1}{: #2 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-1pt}\item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-5pt}
+}
+
+\newcommand{\resumeSubItem}[2]{\resumeItem{#1}{#2}\vspace{-4pt}}
+
+\renewcommand{\labelitemii}{$\circ$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=*]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+%-------------------------------------------
+%%%%%%  CV STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\begin{document}
+
+%----------HEADING-----------------
+\begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
+  \textbf{\Large Gielo Joseph Fernandez} & Email : \href{mailto:gielo0111@gmail.com}{gielo0111@gmail.com}\\
+  Auckland, New Zealand & Mobile : (+64) 22 153 5568 \\
+  \href{https://www.linkedin.com/in/gielojoseph}{linkedin.com/in/gielojoseph} | \href{https://github.com/gielo0111}{github.com/gielo0111} & Visa: Post Study Work Visa (Until May 2029)
+\end{tabular*}
+
+
+%-----------PROFESSIONAL SUMMARY-----------------
+\section{Professional Summary}
+  \resumeSubHeadingListStart
+    \item\small{
+      Customer-centric and technically fluent professional with over 6 years of international experience bridging the gap between users, business workflows, and complex software solutions. Expert at troubleshooting technical anomalies, managing cross-functional workflows, and supporting client systems. Recently completed a Master of Applied Management in New Zealand, combining advanced analytical capabilities with strong stakeholder communication skills. Adaptable, service-driven, and available immediately with a 2-week notice period.
+    }
+  \resumeSubHeadingListEnd
+
+
+%-----------EXPERIENCE-----------------
+\section{Experience}
+  \resumeSubHeadingListStart
+
+    \resumeSubheading
+      {McDonald's}{Auckland, New Zealand}
+      {Kitchen Crew}{Nov. 2024 -- Present}
+      \resumeItemListStart
+        \resumeItem{NZ Workplace Adaptability}
+          {Successfully integrated into the local workforce while handling postgraduate studies, proving a strong work ethic and team collaboration under pressure.}
+    \resumeItemListEnd
+
+    \resumeSubheading
+      {Orcas Consulting Ltd.}{Raglan, New Zealand}
+      {Software Engineer Intern}{Nov. 2025 -- Feb. 2026}
+      \resumeItemListStart
+        \resumeItem{Process Automation}
+          {Developed automated data pipelines to extract structured information, removing manual workloads and improving operational efficiency for internal teams.}
+        \resumeItem{Data Accuracy}
+          {Integrated location-based APIs to clean and verify geospatial data coordinates, significantly enhancing data precision for cross-functional tools.}
+        \resumeItem{User Experience}
+          {Contributed directly to the deployment of the company's new website, ensuring design layouts matched core user needs and business requirements.}
+        \resumeItem{Business Analysis}
+          {Evaluated technical data compression options to balance system performance with organizational storage costs, providing actionable choices to management.}
+        \resumeItem{Collaboration}
+          {Utilized cloud-based prototyping tools to facilitate rapid, transparent team testing and shared environment development.}
+      \resumeItemListEnd
+
+    \resumeSubheading
+      {Evidentful}{Cromwell, New Zealand}
+      {Junior AI Engineer Intern}{Dec. 2024 -- Mar. 2025}
+      \resumeItemListStart
+        \resumeItem{Systems Analysis}
+          {Analyzed frontend and backend application frameworks to identify user-facing performance bottlenecks, delivering actionable recommendations to the product team.}
+        \resumeItem{User Support POC}
+          {Designed and built a search tool proof-of-concept aimed at resolving complex customer queries more accurately using natural language interpretation.}
+        \resumeItem{Workflow Optimization}
+          {Implemented semantic data workflows to explore search relevance, optimizing the application's response capabilities for end-user inquiries.}
+        \resumeItem{Environment Control}
+          {Utilized environment isolation tools to maintain reliable, predictable software behavior across different user operational setups.}
+      \resumeItemListEnd
+
+    \resumeSubheading
+      {Manulife / John Hancock}{Makati, Philippines}
+      {Full Stack Software Engineer / Technical Coordinator}{Aug. 2021 -- Sept. 2024}
+      \resumeItemListStart
+        \resumeItem{Application Support}
+          {Maintained full-stack applications across the complete product lifecycle, balancing feature delivery with direct bug fixes and continuous user service support.}
+        \resumeItem{Team Coordination}
+          {Stepped up as acting Scrum Master, leading daily syncs, coordinating operational updates, and tracking support tasks using Jira and MS Teams.}
+        \resumeItem{Issue Resolution}
+          {Investigated and resolved systemic inconsistencies and data accounting conflicts in daily reporting pipelines, ensuring data fidelity for external stakeholders.}
+        \resumeItem{Interface Usability}
+          {Delivered responsive interface layouts to maximize user accessibility, managing application state and clean integration with backend services.}
+        \resumeItem{Quality Assurance}
+          {Designed and deployed automated verification frameworks to catch, log, and eliminate software anomalies before impacting final users.}
+      \resumeItemListEnd
+
+    \resumeSubheading
+      {Denso Ten Solutions}{Pasig City, Philippines}
+      {Software Tester}{Aug. 2018 -- July 2021}
+      \resumeItemListStart
+        \resumeItem{Quality Verification}
+          {Executed rigorous manual system tests against strict product specifications to guarantee stability and functional alignment with product goals.}
+        \resumeItem{Simulation Analytics}
+          {Generated system behavior inputs and outputs to evaluate technical system boundaries, driving up test coverage and system stability metrics.}
+        \resumeItem{Problem Diagnostics}
+          {Configured isolated verification environments and monitored system logs to isolate, track, and diagnose unexpected technical anomalies.}
+        \resumeItem{International Relations}
+          {Communicated closely with international clients and translated product requirements into clear system documentation in Japanese, easing global cross-team delivery.}
+      \resumeItemListEnd
+
+  \resumeSubHeadingListEnd
+
+
+%-----------PROJECTS-----------------
+\section{Projects \& Portfolios}
+  \resumeSubHeadingListStart
+    \resumeSubItem{RippleForecast Tides (Internship)}
+      {Developed automated information feeds and user-friendly interface components to support location-based marine analytics and client planning tools. Available at: \url{https://www.rippleforecast.com/tide}}
+    \resumeSubItem{CoverMe (Transactional Platform)}
+      {Contributed to a customer-facing full-stack transactional travel insurance application designed to automate policy quotes and client calculations. Available at: \url{https://www.coverme.com/travel-insurance/get-a-quote}}
+    \resumeSubItem{Interactive Data Portfolio (Solo Project)}
+      {Designed relational databases and built easy-to-read analytic dashboards hosted via cloud applications to present complex data visually. Available at: \url{https://gielofernandez-sql-project.streamlit.app/}}
+    \resumeSubItem{Workforce Analytics Modeling (Master's Project)}
+      {Applied data forecasting methodologies to organizational human resources datasets to analyze and predict employee retention trends during postgraduate coursework. Hosted on Kaggle: \url{https://www.kaggle.com/code/gelojoseph/predict-employee-attrition-w-logistic-regression}}
+    \resumeSubItem{Collaborative Team Profile (University Project)}
+      {Created a responsive team introductory portal focused on clean web structure, collaborative content layout, and team storytelling. Available at: \url{https://gielo0111.github.io/LagLife_of_Toby_Peds_Gielo/}}
+    \resumeSubItem{Resort Portal UX Modernisation (University Project)}
+      {Redesigned and modernized a business website interface based on practical user experience (UX) and digital accessibility guidelines. Available at: \url{https://gielo0111.github.io/Punta_Riviera_Resort/}}
+  \resumeSubHeadingListEnd
+
+
+%-----------EDUCATION-----------------
+\section{Education}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {Future Skills Academy International}{Auckland, New Zealand}
+      {Master of Applied Management (Major in Business Information Systems)}{Oct. 2024 -- Apr. 2026}
+    \resumeSubheading
+      {University of Santo Tomas}{Manila, Philippines}
+      {Bachelor of Science in Computer Science}{June 2012 -- July 2017}
+  \resumeSubHeadingListEnd
+
+
+%--------CORE SKILLS & APPLICATION------------
+\section{Core Skills \& Core Competencies}
+ \resumeSubHeadingListStart
+   \item{
+     \textbf{Methodologies \& Tools}{: Agile/Scrum, Acting Scrum Master, Jira, MS Teams, MS Office Suite, Documentation}
+     \hfill
+     \textbf{Customer Support \& QA}{: Helpdesk Support, Manual System Testing, Troubleshooting, Log Tracking}
+   }
+   \item{
+     \textbf{Systems \& Architecture}{: Business Systems Analysis, Data Validation, Environment Configuration, Workflow Automation}
+     \hfill
+     \textbf{Cloud \& AI Tools}{: Microsoft Azure (AZ-900), Meilisearch, Docker, Postman, GitHub Copilot}
+   }
+   \item{
+     \textbf{Data \& Technical Fluency}{: SQL, Python, JavaScript, TypeScript, Node.js, React, relational databases}
+   }
+ \resumeSubHeadingListEnd
+
+%--------CERTIFICATIONS & LANGUAGES------------
+\section{Certifications \& Languages}
+  \resumeSubHeadingListStart
+    \item{
+      \textbf{Certifications: } DataCamp AI Fundamentals (2025), Microsoft Certified Azure Fundamentals AZ-900 (2023), AutoCAD Professional Training (2018)
+    }
+    \item{
+      \textbf{Languages: } English (Fluent), Japanese (Conversational - JLPT N4), Korean (Basic)
+    }
+  \resumeSubHeadingListEnd
+
+\end{document}
